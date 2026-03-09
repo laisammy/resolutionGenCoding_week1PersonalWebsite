@@ -1,8 +1,10 @@
+@import "tailwindcss";
+
 .bigText {
     display: flex;
     align-items: baseline;
     gap: 0.3rem;  
-    background-color: blanchedalmond;
+    background-color: rgb(255, 235, 205);
     border-radius: 7px;
 }
 
